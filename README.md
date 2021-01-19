@@ -5,8 +5,8 @@ Leírás:
   A program python nyelven írodik/írodott.
   
 Működési elv:
-  A program kap egy áramköri rajzot. A program keresi a rajz egyes elemeit pl.: ellenállás, feszültség, stb.
-  A program ezután kigyűjti egy fájlba a talált elemeket a rajzból.
+  A program kap egy áramköri rajzot. A program keresi a rajz egyes Lampaeit pl.: ellenállás, feszültség, stb.
+  A program ezután kigyűjti egy fájlba a talált Lampaeket a rajzból.
 
 Megjegyzés:
   A program egyszerűbb rajzok felismerését biztosítja.
