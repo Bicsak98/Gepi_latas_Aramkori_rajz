@@ -5,8 +5,15 @@ Leírás:
   A program python nyelven írodik/írodott.
   
 Működési elv:
-  A program kap egy áramköri rajzot. A program keresi a rajz egyes Lampaeit pl.: ellenállás, feszültség, stb.
-  A program ezután kigyűjti egy fájlba a talált Lampaeket a rajzból.
+  A program fájl megadás részen beírja a konvertálni kívánt képet, majd futtatja. A porgram könyvtárába bekerül a fájl amit társít a KiCadbe.
 
 Megjegyzés:
-  A program egyszerűbb rajzok felismerését biztosítja.
+  A program egyszerűbb rajzok felismerését biztosítja:
+  - amper
+  - volt
+  - ellenállás
+  - kapcsoló
+  - lámpa
+  - megszakító
+ 
+ 
