@@ -16,4 +16,4 @@ Megjegyzés:
   - lámpa
   - megszakító
  
- 
+ Részletes leírás a pdf-ben.
